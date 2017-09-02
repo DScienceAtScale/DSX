@@ -9,7 +9,7 @@ Notebook-2: Reloading the predictive model and performing batch scoring.<br>
 Notebook-3: Saving the predictive model to the Watson Machine Learning repository and deploying it using the WML service.<br>
 Notebook-4: Optional: Modifying the notebook from 1- above to build different models.<br>
 
-### Instructions:
+### Steps:
 1- Create a **Project** in DSX Cloud and name it *PredictChurn* as per the screen capture below:
 
 ![Create the project](../Images/CreateProject.png?raw=true)
