@@ -4,7 +4,7 @@ This repository contains the data and analytic assets for the Lab. The Jupyter N
 the churn.csv and customer.csv data sets.
 
 There are 4 main notebooks you can work through:<br>
-Notebook-1: Building the predictive model and saving it locally.<br>
+Notebook-1: Applying data science and machine learning methodology to build the predictive model. Save model locally.<br>
 Notebook-2: Reloading the predictive model and performing batch scoring.<br>
 Notebook-3: Saving the predictive model to the Watson Machine Learning repository and deploying it using the WML service.<br>
 Notebook-4: Optional: Modifying the notebook from 1- above to build different models.<br>
