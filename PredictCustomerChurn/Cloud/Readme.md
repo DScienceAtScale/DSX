@@ -12,7 +12,7 @@ There are 4 main notebooks you can work through. Please read further for instruc
 
 <br>
 
-- Within the *PredictChurn* project, **add a Notebook** and choose to import it from this **URL** (Give a meaningful name to the notebook as well such as BuildChurnModel): 
+2- Within the *PredictChurn* project, **add a Notebook** and choose to import it from this **URL** (Give a meaningful name to the notebook as well such as BuildChurnModel). Check the screen capture below for guidance: 
 https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictCustomerChurnStudent_Learn.ipynb
   
   ![Add a notebook](../Images/create_notebook_URL.png?raw=true)
