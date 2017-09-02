@@ -4,10 +4,10 @@ This repository contains the data and analytic assets for the Lab. The Jupyter N
 the churn.csv and customer.csv data sets.
 
 There are 4 main notebooks you can work through:
-1- Building the predictive model and saving it locally.
-2- Reloading the predictive model and performing batch scoring.
-3- Saving the predictive model to the Watson Machine Learning repository and deploying it using the WML service.
-4- Optional: Modifying the notebook from 1- above to build different models.
+1- Building the predictive model and saving it locally.<br>
+2- Reloading the predictive model and performing batch scoring.<nr>
+3- Saving the predictive model to the Watson Machine Learning repository and deploying it using the WML service.<br>
+4- Optional: Modifying the notebook from 1- above to build different models.<br>
 
 ### Instructions:
 1- Create a **Project** in DSX Cloud and name it *PredictChurn* as per the screen capture below:
