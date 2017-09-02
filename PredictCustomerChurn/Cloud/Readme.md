@@ -11,7 +11,7 @@ There are 4 main notebooks you can work through. Please read further for instruc
 - Within the *PredictChurn* project, **add a Notebook** and choose to import it from this **URL** (Give a meaningful name to the notebook as well): 
 https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictCustomerChurnStudent_Learn.ipynb
   
-  ![Add a notebook](Images/create_notebook_URL.png?raw=true)
+  ![Add a notebook](../Images/create_notebook_URL.png?raw=true)
   
 - Work through the "*PredictCustomerChurnStudent_Learn*" notebook
 - Add the "*Predict Churn - Score New Data*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
