@@ -3,14 +3,13 @@ This repository contains the data and analytic assets for the Lab. The Jupyter N
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and builds a predictive model using
 the churn.csv and customer.csv data sets.
 
-There are 4 main notebooks you can work through and they are described in further detail below:
+There are 4 main notebooks you can work through. Please read further for instructions to run this lab.
 
-### Getting Started
-- Create a **Project** in DSX Cloud and name it *PredictChurn*
+### Instructions:
+1- Create a **Project** in DSX Cloud and name it *PredictChurn*
 
 - Within the *PredictChurn* project, **add a Notebook** and choose to import it from this **URL** (Give a meaningful name to the notebook as well): 
-https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerChurnStudent_Learn.ipynb
-
+https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictCustomerChurnStudent_Learn.ipynb
   
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
