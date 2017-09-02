@@ -8,7 +8,7 @@ There are 4 main notebooks you can work through. Please read further for instruc
 ### Instructions:
 1- Create a **Project** in DSX Cloud and name it *PredictChurn*
 
-![Create the project](../Images/create_project.png?raw=true)
+![Create the project](../Images/CreateProject.png?raw=true)
 
 - Within the *PredictChurn* project, **add a Notebook** and choose to import it from this **URL** (Give a meaningful name to the notebook as well such as BuildChurnModel): 
 https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictCustomerChurnStudent_Learn.ipynb
