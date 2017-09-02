@@ -5,7 +5,7 @@ the churn.csv and customer.csv data sets.
 
 There are 4 main notebooks you can work through:<br>
 1- Building the predictive model and saving it locally.<br>
-2- Reloading the predictive model and performing batch scoring.<nr>
+2- Reloading the predictive model and performing batch scoring.<br>
 3- Saving the predictive model to the Watson Machine Learning repository and deploying it using the WML service.<br>
 4- Optional: Modifying the notebook from 1- above to build different models.<br>
 
