@@ -6,9 +6,11 @@ the churn.csv and customer.csv data sets.
 There are 4 main notebooks you can work through. Please read further for instructions to run this lab.
 
 ### Instructions:
-1- Create a **Project** in DSX Cloud and name it *PredictChurn*
+1- Create a **Project** in DSX Cloud and name it *PredictChurn* as per the screen capture below:
 
 ![Create the project](../Images/CreateProject.png?raw=true)
+
+<br>
 
 - Within the *PredictChurn* project, **add a Notebook** and choose to import it from this **URL** (Give a meaningful name to the notebook as well such as BuildChurnModel): 
 https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictCustomerChurnStudent_Learn.ipynb
