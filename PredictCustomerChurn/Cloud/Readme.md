@@ -22,14 +22,14 @@ https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChur
 
   ![Add a notebook](../Images/create_notebook_URL.png?raw=true)
   
-- Work through the "*PredictCustomerChurnStudent_Learn*" notebook
-- Add the "*Predict Churn - Score New Data*" notebook into your *PredictChurn* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
+3- Work through the "*PredictCustomerChurnStudent_Learn*" notebook which is Notebook-1 in the list above.<br><br>
+4- Add the "*Predict Churn - Score New Data*" notebook into your *PredictChurn* project and work through the notebook.  The **URL** is https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictChurnScoreNewData.ipynb
 <br/>
 
 ### Optional Lab Exercises
 
 #### 1. Access data in flat files
-- Download ![churn.csv](data/churn.csv?raw=true) and ![customer.csv](data/customer.csv?raw=true), and add them into the *IntroToNotebooks* project
+- Download ![churn.csv](data/churn.csv?raw=true) and ![customer.csv](data/customer.csv?raw=true), and add them into the *PredictChurn* project
 - Create a duplicate of the "*PredictCustomerChurnStudent_Learn*" notebook
 
 ![Duplicate a notebook](images/duplicate_notebook.png?raw=true)
