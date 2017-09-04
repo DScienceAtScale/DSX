@@ -10,7 +10,7 @@ Notebook-3: Saving the predictive model to the Watson Machine Learning repositor
 Notebook-4: Optional: Modifying the notebook from 1- above to build different models.<br>
 
 ### Steps:
-1- Create a **Project** in DSX Cloud and name it *PredictChurn* as per the screen capture below:
+1- Create a **Project** in DSX Cloud and name it *PredictChurn* as per the screen capture below (your spark service name may be different):
 
 ![Create the project](../Images/CreateProject.png?raw=true)
 
