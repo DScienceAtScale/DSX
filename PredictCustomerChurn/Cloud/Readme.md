@@ -28,7 +28,12 @@ https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChur
 
 ### Optional Lab Exercises
 
-#### 1. Access data in flat files
+#### 1. Inject a new transformer and building a LogisticRegression model
+- Add the "*PredictCustomerChurnStudent_Practice*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictCustomerChurnStudent_Practice.ipynb
+
+- Follow the instructions in the notebook and work through it.
+
+#### 2. Access data in flat files
 - Download ![churn.csv](data/churn.csv?raw=true) and ![customer.csv](data/customer.csv?raw=true), and add them into the *PredictChurn* project
 - Create a duplicate of the "*PredictCustomerChurnStudent_Learn*" notebook
 
@@ -38,8 +43,3 @@ https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChur
 - **Tip**: make sure *inferSchema* is set to 'true' when reading in the csv files, otherwise, all columns will be treated as String values.
 
 ![infer schema](images/infer_schema.png?raw=true)
-
-#### 2. Inject a new transformer and building a LogisticRegression model
-- Add the "*PredictCustomerChurnStudent_Practice*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerChurnStudent_Practice.ipynb
-
-- Follow the instructions in the notebook and work through it.
