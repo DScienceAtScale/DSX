@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChur
 - Download ![churn.csv](data/churn.csv?raw=true) and ![customer.csv](data/customer.csv?raw=true), and add them into the *PredictChurn* project
 - Create a duplicate of the "*PredictCustomerChurnStudent_Learn*" notebook
 
-![Duplicate a notebook](../images/duplicate_notebook.png?raw=true)
+![Duplicate a notebook](../Images/duplicate_notebook.png?raw=true)
 
 - Edit the "*PredictCustomerChurnStudent_Learn copy 1*" notebook to read the data from the flat files
 - **Tip**: make sure *inferSchema* is set to 'true' when reading in the csv files, otherwise, all columns will be treated as String values.
