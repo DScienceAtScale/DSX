@@ -25,6 +25,8 @@ https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChur
 3- Work through the "*PredictCustomerChurnStudent_Learn*" notebook which is Notebook-1 in the list above.<br><br>
 4- Add the "*Predict Churn - Score New Data*" notebook into your *PredictChurn* project and work through the notebook.  The **URL** is https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictChurnScoreNewData.ipynb
 <br/>
+5- Add the "*	PredictChurnDeploytoWML.ipynb*" notebook into your *PredictChurn* project and work through the notebook.  The **URL** is https://raw.githubusercontent.com/DScienceAtScale/DSX/master/PredictCustomerChurn/Cloud/PredictChurnDeploytoWML.ipynb
+<br/>
 
 ### Optional Lab Exercises
 
