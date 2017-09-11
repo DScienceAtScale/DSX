@@ -3,7 +3,7 @@ This repository contains the data and analytic assets for the Lab. The Jupyter N
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and builds a predictive model using
 the churn.csv and customer.csv data sets.
 
-There are 4 main notebooks you can work through:<br>
+There are 4 main notebooks you can work through:<br><br>
 Notebook-1 (PredictCustomerChurnStudent_Learn.ipynb):<br> Applying data science and machine learning methodology to build the predictive model. Save model locally.<br><br>
 Notebook-2 (PredictChurnScoreNewData.ipynb):<br> Reloading the predictive model and performing batch scoring.<br><br>
 Notebook-3 ( 	PredictChurnDeploytoWML.ipynb):<br> Saving the predictive model to the Watson Machine Learning repository and deploying it using the WML service.<br><br>
